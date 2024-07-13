@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adán</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adanmauri&rank=A&theme=onedark" alt="adanmauri" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adanmauri&rank=SSS,SS,S,AAA,AA,A&theme=onedark" alt="adanmauri" /></a> </p>
 
 - 🔭 I’m currently working on [NaNLABS](https://github.com/nanlabs)
 
