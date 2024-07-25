@@ -11,3 +11,5 @@
 <p align="left">
 <a href="https://linkedin.com/in/adanmauri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adanmauri" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats-9nloh0r8v-adanmauris-projects.vercel.app/api/top-langs?username=adanmauri&show_icons=true&locale=en&layout=compact" alt="adanmauri" /></p>
