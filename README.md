@@ -14,4 +14,4 @@
 
 <h3 align="left">Stats:</h3>
 
-![Top Langs](https://github-readme-stats-navy-phi-25.vercel.app/api/top-langs/?username=adanmauri\&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adanmauri&hide_progress=true)
