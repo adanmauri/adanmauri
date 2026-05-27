@@ -119,25 +119,6 @@ Also designed **educational robots with non-conventional interfaces**, combining
 
 ---
 
-### Activity
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adanmauri&theme=tokyonight" alt="Top languages by commit" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adanmauri&theme=tokyonight" alt="Top languages by repo" />
-
-</div>
-
----
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-gamma.vercel.app/?username=adanmauri&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub trophies" />
-</p>
-
----
-
 ### Connect
 
 <p align="center">
